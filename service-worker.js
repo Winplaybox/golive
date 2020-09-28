@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Winplaybox/golive/precache-manifest.607d6c6f5c4ed3006f4159ef23efc588.js"
+  "/Winplaybox/golive/precache-manifest.f5933e467f2726ea74b03c7883190bee.js"
 );
 
 self.addEventListener('message', (event) => {
