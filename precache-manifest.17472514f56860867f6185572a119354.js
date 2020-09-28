@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18c27ede362e3cfe383da070af814724",
+    "revision": "ac671236b849a5e21e314db3b5f90cc9",
     "url": "/Winplaybox/golive.git/index.html"
   },
   {
-    "revision": "26edbbcf793adf0db503",
+    "revision": "61bafca5246a91ea514a",
     "url": "/Winplaybox/golive.git/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "3d435c9b6af769958be3",
-    "url": "/Winplaybox/golive.git/static/js/2.71327c48.chunk.js"
+    "revision": "2d199c156a51daff44d1",
+    "url": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Winplaybox/golive.git/static/js/2.71327c48.chunk.js.LICENSE.txt"
+    "url": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26edbbcf793adf0db503",
-    "url": "/Winplaybox/golive.git/static/js/main.72a07984.chunk.js"
+    "revision": "61bafca5246a91ea514a",
+    "url": "/Winplaybox/golive.git/static/js/main.cf0531fb.chunk.js"
   },
   {
     "revision": "0bfb4f14444c5ba9e23a",

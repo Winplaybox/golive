@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Winplaybox/golive.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Winplaybox/golive.git/static/js/main.72a07984.chunk.js",
-    "main.js.map": "/Winplaybox/golive.git/static/js/main.72a07984.chunk.js.map",
+    "main.js": "/Winplaybox/golive.git/static/js/main.cf0531fb.chunk.js",
+    "main.js.map": "/Winplaybox/golive.git/static/js/main.cf0531fb.chunk.js.map",
     "runtime-main.js": "/Winplaybox/golive.git/static/js/runtime-main.02bb9512.js",
     "runtime-main.js.map": "/Winplaybox/golive.git/static/js/runtime-main.02bb9512.js.map",
-    "static/js/2.71327c48.chunk.js": "/Winplaybox/golive.git/static/js/2.71327c48.chunk.js",
-    "static/js/2.71327c48.chunk.js.map": "/Winplaybox/golive.git/static/js/2.71327c48.chunk.js.map",
+    "static/js/2.733d350a.chunk.js": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js",
+    "static/js/2.733d350a.chunk.js.map": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js.map",
     "index.html": "/Winplaybox/golive.git/index.html",
-    "precache-manifest.61a019b0645984365c8792ca093f60e4.js": "/Winplaybox/golive.git/precache-manifest.61a019b0645984365c8792ca093f60e4.js",
+    "precache-manifest.17472514f56860867f6185572a119354.js": "/Winplaybox/golive.git/precache-manifest.17472514f56860867f6185572a119354.js",
     "service-worker.js": "/Winplaybox/golive.git/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Winplaybox/golive.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.71327c48.chunk.js.LICENSE.txt": "/Winplaybox/golive.git/static/js/2.71327c48.chunk.js.LICENSE.txt",
+    "static/js/2.733d350a.chunk.js.LICENSE.txt": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Winplaybox/golive.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.02bb9512.js",
-    "static/js/2.71327c48.chunk.js",
+    "static/js/2.733d350a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.72a07984.chunk.js"
+    "static/js/main.cf0531fb.chunk.js"
   ]
 }
