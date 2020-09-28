@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Winplaybox/golive.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Winplaybox/golive.git/static/js/main.cf0531fb.chunk.js",
-    "main.js.map": "/Winplaybox/golive.git/static/js/main.cf0531fb.chunk.js.map",
-    "runtime-main.js": "/Winplaybox/golive.git/static/js/runtime-main.02bb9512.js",
-    "runtime-main.js.map": "/Winplaybox/golive.git/static/js/runtime-main.02bb9512.js.map",
-    "static/js/2.733d350a.chunk.js": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js",
-    "static/js/2.733d350a.chunk.js.map": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js.map",
-    "index.html": "/Winplaybox/golive.git/index.html",
-    "precache-manifest.17472514f56860867f6185572a119354.js": "/Winplaybox/golive.git/precache-manifest.17472514f56860867f6185572a119354.js",
-    "service-worker.js": "/Winplaybox/golive.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Winplaybox/golive.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.733d350a.chunk.js.LICENSE.txt": "/Winplaybox/golive.git/static/js/2.733d350a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Winplaybox/golive.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Winplaybox/golive/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Winplaybox/golive/static/js/main.796d2bb0.chunk.js",
+    "main.js.map": "/Winplaybox/golive/static/js/main.796d2bb0.chunk.js.map",
+    "runtime-main.js": "/Winplaybox/golive/static/js/runtime-main.5bb54cd1.js",
+    "runtime-main.js.map": "/Winplaybox/golive/static/js/runtime-main.5bb54cd1.js.map",
+    "static/js/2.733d350a.chunk.js": "/Winplaybox/golive/static/js/2.733d350a.chunk.js",
+    "static/js/2.733d350a.chunk.js.map": "/Winplaybox/golive/static/js/2.733d350a.chunk.js.map",
+    "index.html": "/Winplaybox/golive/index.html",
+    "precache-manifest.607d6c6f5c4ed3006f4159ef23efc588.js": "/Winplaybox/golive/precache-manifest.607d6c6f5c4ed3006f4159ef23efc588.js",
+    "service-worker.js": "/Winplaybox/golive/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Winplaybox/golive/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.733d350a.chunk.js.LICENSE.txt": "/Winplaybox/golive/static/js/2.733d350a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02bb9512.js",
+    "static/js/runtime-main.5bb54cd1.js",
     "static/js/2.733d350a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cf0531fb.chunk.js"
+    "static/js/main.796d2bb0.chunk.js"
   ]
 }
